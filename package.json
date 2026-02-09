@@ -102,7 +102,7 @@
     "@openzeppelin/contracts": "^2.5.1",
     "@types/web3": "1.0.18",
     "@uniswap/lib": "^4.0.1-alpha",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "bignumber.js": "^8.1.1",
     "canonical-weth": "^1.4.0",
     "dotenv": "^16.0.0",
